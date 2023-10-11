@@ -1,3 +1,6 @@
-drive link:
+drive link phase1 :
 https://docs.google.com/presentation/d/11VSgmEivvZuh75k8nvmVrvbF71aCz4QU/edit?usp=drivesdk&ouid=109297828346429782227&rtpof=true&sd=true
 # covid-19-vaccine-analysis
+
+drive link phase2 :
+https://docs.google.com/presentation/d/1XxX3j40UYRD6EpKd5r-8_00t0u7vjXHQ/edit?usp=drivesdk&ouid=109297828346429782227&rtpof=true&sd=true
