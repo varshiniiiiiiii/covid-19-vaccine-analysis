@@ -15,3 +15,5 @@ https://docs.google.com/presentation/d/1L_HFnww5m80uRg1FrRGPDTMPHTjFc81y/edit?us
 drive link phase5:
 https://docs.google.com/presentation/d/1wihpzZVO8mjnzGEPGEAUQpSYk9wjtqu3/edit?usp=drivesdk&ouid=109297828346429782227&rtpof=true&sd=true
 
+step by step implementation :
+https://docs.google.com/document/d/1n_XceSri_tWCcZWd_dsX3q1O8ynhpc6F/edit?usp=drivesdk&ouid=108033573415466486538&rtpof=true&sd=tru
